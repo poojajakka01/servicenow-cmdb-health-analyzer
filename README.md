@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32628526/README.md)
 # ServiceNow CMDB Health Analyzer
 
 Offline scoring of CMDB **completeness, correctness, and compliance** — the same three KPIs ServiceNow's CMDB Health Dashboard reports — against an exported set of CIs and relationships.
